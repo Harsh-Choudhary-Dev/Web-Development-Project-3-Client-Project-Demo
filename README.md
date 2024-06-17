@@ -7,6 +7,7 @@ Features
 Homepage: Overview of Techy Software and our core values.
 Services: Detailed descriptions of the software solutions we offer.
 Contact: Easy-to-use contact form for inquiries and support.
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Java (Servlets)
