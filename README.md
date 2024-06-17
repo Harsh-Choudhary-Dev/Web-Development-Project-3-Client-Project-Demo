@@ -1,7 +1,6 @@
 
-Certainly! Here's a short description for your GitHub README file for a website for Techy Software:
-
 Techy Software Company Website
+
 Welcome to the official repository of the Techy Software Company website! This project showcases a fully functional, dynamic website built with a Java backend and a SQL database. It serves as an online presence for Techy Software, highlighting our services, team, and contact information.
 
 Features
