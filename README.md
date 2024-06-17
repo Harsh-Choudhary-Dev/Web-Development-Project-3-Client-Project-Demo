@@ -9,8 +9,11 @@ Services: Detailed descriptions of the software solutions we offer.
 Contact: Easy-to-use contact form for inquiries and support.
 
 Technologies Used
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Java (Servlets)
+
 Database: SQL (MySQL)
 
 Hosted Link: https://667076386388141fe56bcb62--effortless-pudding-65bb26.netlify.app
